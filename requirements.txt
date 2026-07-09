@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+# Only needed if you scrape real data (see src/scrape_netkeiba.py):
+# requests
+# beautifulsoup4
+# lxml
+# html5lib
